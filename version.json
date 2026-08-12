@@ -1,4 +1,6 @@
 {
   "version": "1.2.0",
-  "url": https://github.com/GokhanEkren/ProErp-Guncellemeler/releases/download/v1.2.0/ProErp_Setup_v1.2.0.exe
+  "url": "https://github.com/GokhanEkren/ProErp-Guncellemeler/releases/download/v1.2.0/ProErp_Setup_v1.2.0.exe",
+  "downloadUrl": "https://github.com/GokhanEkren/ProErp-Guncellemeler/releases/download/v1.2.0/ProErp_Setup_v1.2.0.exe",
+  "changelog": "Yeni tasarım ve efsane özellikler eklendi! Arka plan performans iyileştirmeleri yapıldı."
 }
